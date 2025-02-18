@@ -162,7 +162,7 @@ local function initialize()
 		imageButton.Size = UDim2.new(0, 36, 0, 36)
 		imageButton.AnchorPoint = Vector2.new(0.5, 0.5)
 		imageButton.Position = UDim2.new(0.5, 0, 0.5, 0)
-		imageButton.Image = "http://www.roblox.com/asset/?id=99937635381008"
+		imageButton.Image = "http://www.roblox.com/asset/?id=233968301027735"
 
 		local function toggleGUI()
 			visible = not visible
@@ -203,7 +203,7 @@ local function initialize()
 		icon.Size = UDim2.new(0, 36, 0, 36)
 		icon.Position = UDim2.new(0.5, 0, 0.5, 0)
 		icon.AnchorPoint = Vector2.new(0.5, 0.5)
-		icon.Image = "http://www.roblox.com/asset/?id=99937635381008"
+		icon.Image = "http://www.roblox.com/asset/?id=233968301027735"
 		icon.BackgroundTransparency = 1
 
 		local function toggleGUI()
